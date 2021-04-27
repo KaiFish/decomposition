@@ -13,4 +13,4 @@ The Flower is meant as an demo/class walkthrough example. Students can be given 
 The House is meant for student practice. They should **not** be given `house.py`. Students may attempt to recreate the `house.py` output on their own or they may use `skeleton.py` as a general guide. `skeleton.py` has all of the colors, size indications, and comments to guide students towards accurate completion.
 
 ## Reference
-For CSS Color Nams [click here](http://davidbau.com/colors/)
+For CSS Color Names [click here](http://davidbau.com/colors/)
